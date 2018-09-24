@@ -1,3 +1,7 @@
+# Taylor DiSalvo
+# Dictionaries in Action
+# 9/24/2018
+
 dictionary = {
     'wallet' : 0,
     'walletTotal' : 0,
